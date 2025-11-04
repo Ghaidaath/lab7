@@ -14,12 +14,14 @@ step2,3:
 
 task2:
 
+<img width="960" height="540" alt="2025-11-04 (2)" src="https://github.com/user-attachments/assets/aa909386-2d1d-487b-bfee-60a87f1badc3" />
 
 
 
+task3,4:
+
+<img width="960" height="540" alt="2025-11-04 (3)" src="https://github.com/user-attachments/assets/bfa67faf-ef90-48b6-aa2d-e3dfad121b45" />
 
 
-
-task3:
 
 
