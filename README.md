@@ -22,6 +22,9 @@ task3,4:
 
 <img width="960" height="540" alt="2025-11-04 (3)" src="https://github.com/user-attachments/assets/bfa67faf-ef90-48b6-aa2d-e3dfad121b45" />
 
+<img width="960" height="540" alt="2025-11-08" src="https://github.com/user-attachments/assets/09f9e886-255f-4e3e-86c8-3fd377ac4afa" />
+
+<img width="960" height="540" alt="2025-11-08 (1)" src="https://github.com/user-attachments/assets/640ce7f5-b4d0-4b36-a1a8-ebe59c9abbda" />
 
 
 
